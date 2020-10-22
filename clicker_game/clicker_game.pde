@@ -47,6 +47,7 @@ void setup() {
   reset();
 }
 void draw() {
+  //different modes depending on the mode
   if (mode == INTRO) intro();
   else if (mode == GAME) game();
   else if (mode == PAUSE) pause();
