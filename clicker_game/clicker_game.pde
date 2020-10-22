@@ -1,3 +1,6 @@
+//Ronald Liu
+//1-2
+//clicker game
 import ddf.minim.*;
 import ddf.minim.analysis.*;
 import ddf.minim.effects.*;
